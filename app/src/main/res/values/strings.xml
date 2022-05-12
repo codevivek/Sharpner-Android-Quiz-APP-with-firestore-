@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sharpner</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="logo">logo</string>
+    <string name="instructions">instructions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="award">award</string>
+    <string name="main_logo">main_logo</string>
+    <string name="timer">24</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="who_invented_android_studio">Who invented android studio?</string>
+    <string name="_1_10">1/10</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="next">Next</string>
+    <string name="quit">Quit</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47977916200",
+    "project_id": "sharpner-efd14",
+    "storage_bucket": "sharpner-efd14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47977916200:android:ac59a9c50ba53ea662d21d",
+        "android_client_info": {
+          "package_name": "com.example.sharpner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47977916200-kkatfibkd71357k3539c31fmau10rnao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGamcblAZ8RUvDUCs3P5azKaGkUpLcxO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47977916200-kkatfibkd71357k3539c31fmau10rnao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
